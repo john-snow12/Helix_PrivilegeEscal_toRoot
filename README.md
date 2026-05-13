@@ -1,5 +1,5 @@
 # Helix Privilege Escalation
-## Script for privilege escalation on helix.htb
+## Script for privilege escalation in helix.htb
 
 ### Inside your terminal
 
